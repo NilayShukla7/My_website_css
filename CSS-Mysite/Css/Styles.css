@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+    color: #66bfbf;
+    font-size:562.5%;
+    line-height: 2;
+    margin-top: 0 ;
+    font-family: 'Sacramento', cursive;
+    
+
+}
+
+h2{
+    color:#66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    
+}
+h3{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+div {
+    background-color: #E4F9F5;
+
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+    line-height: 2;
+}
+.skill-row2{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+    line-height: 2;
+}
+
+.Web-Dev {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.skill-row img{
+    height:25%;
+    width:25%;
+    float:left;
+    margin-bottom: 40%;
+    margin: 50px;
+    border-radius: 50%;
+}
+
+.skill-row2 img{
+    
+    height:25%;
+    width:25%;
+    float:right;
+    margin-bottom: 40%;
+    margin: 50px;
+    border-radius: 50%;
+}
+
+
+
+
